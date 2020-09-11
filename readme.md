@@ -1,4 +1,4 @@
-Habilidades tecnicas:
+**Habilidades tecnicas:**
 - Automatizacion en Jenkins
-- Master en SQL
-- FIN
+- Aprendiendo sobre GIT
+- Especialista en Centro de Datos
