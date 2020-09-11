@@ -1,2 +1,3 @@
 Laboratorio de Git 
-Probando el commit
+Linea nueva 1
+Linea nueva 2
